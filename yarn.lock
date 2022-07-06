@@ -2556,7 +2556,7 @@ is-callable@^1.1.4, is-callable@^1.1.5:
   resolved "https://registry.yarnpkg.com/is-callable/-/is-callable-1.1.5.tgz#f7e46b596890456db74e7f6e976cb3273d06faab"
   integrity sha512-ESKv5sMCJB2jnHTWZ3O5itG+O128Hsus4K4Qh1h2/cgn2vbgnLSVqfV46AeJA9D5EeeLa9w81KUXMtn34zhX+Q==
 
-is-core-module@^2.9.0:
+is-core-module@^2.2.0, is-core-module@^2.9.0:
   version "2.9.0"
   resolved "https://registry.yarnpkg.com/is-core-module/-/is-core-module-2.9.0.tgz#e1c34429cd51c6dd9e09e0799e396e27b19a9c69"
   integrity sha512-+5FPy5PnwmO3lvfMb0AsoPaBG+5KHUI0wYFXOtYPnVVVspTFUuMZNfNaNVRt3FZadstu2c8x23vykRW/NBoU6A==
@@ -2745,10 +2745,10 @@ json-stringify-safe@~5.0.1:
   resolved "https://registry.yarnpkg.com/json-stringify-safe/-/json-stringify-safe-5.0.1.tgz#1296a2d58fd45f19a0f6ce01d65701e2c735b6eb"
   integrity sha1-Epai1Y/UXxmg9s4B1lcB4sc1tus=
 
-json-to-graphql-query@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/json-to-graphql-query/-/json-to-graphql-query-2.0.0.tgz#2b0364a1be891ee530947db3cfbcae0ce583976e"
-  integrity sha512-+oFKHOVymP+jDETuLCl+ich+F7b8ym0vdczmOs8aJbtRd61+YGugVrtrI4xh5zfY1ZAVFG+zTAAsfDS1t5+17g==
+json-to-graphql-query@^2.2.4:
+  version "2.2.4"
+  resolved "https://registry.yarnpkg.com/json-to-graphql-query/-/json-to-graphql-query-2.2.4.tgz#ada9cfdbb9bf38589fd2661e1588d1edd0a882cc"
+  integrity sha512-vNvsOKDSlEqYCzejI1xHS9Hm738dSnG4Upy09LUGqyybZXSIIb7NydDphB/6WxW2EEVpPU4JeU/Yo63Nw9dEJg==
 
 jsonfile@^4.0.0:
   version "4.0.0"
